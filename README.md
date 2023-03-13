@@ -1,8 +1,20 @@
-<h1 align="center" color="red"> Ali Osman UÇAR<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div><h1 align="center" color="red"> Ali Osman UÇAR<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=YAZILIM+MÜHENDİSLİĞİ+ÖĞRENCİSİ;"></a>
-</p>
- <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **HAKKIMDA**
+</p></div>
+<img align ="center" alt="coding" width="1000" src="https://i.pinimg.com/originals/54/c8/2b/54c82b56f53706b47735814701708e13.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+<br>
+<div>
+ <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
+
+
+ **HAKKIMDA**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
@@ -10,7 +22,7 @@
 - Şu anda ReactJS ile Web Geliştirme 
 - React Native ile Mobil Geliştirme öğreniyorum.
 - yeni bir iş fırsatı için açığım.
-
+</div>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
