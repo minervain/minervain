@@ -1,6 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ali Osman UÇAR</h1>
+<h1 align="center" color="red">Hi 👋, I'm Ali Osman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align ="right" alt="coding" width="400" src="https://cdnuploads.aa.com.tr/uploads/Contents/2020/11/09/thumbs_b_c_667360298277a3240ae508e5bb63f60d.jpg">
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=YAZILIM+MÜHENDİSLİĞİ+ÖĞRENCİSİ;ALİ+OSMAN+UÇAR"></a>
+</p>
+ <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **HAKKIMDA**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<br>
+
+- Şu anda ReactJS ile Web Geliştirme ve React Native ile Mobil Geliştirme öğreniyorum.
+- Şu anda bir Stajyer veya yeni bir iş fırsatı için açığım.
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minervain&label=Profile%20views&color=0e75b6&style=flat" alt="minervain" /> </p>
 
