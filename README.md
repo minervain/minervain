@@ -27,21 +27,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minervain&label=Profile%20views&color=0e75b6&style=flat" alt="minervain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minervain" alt="minervain" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/minervain0" target="blank"><img src="https://img.shields.io/twitter/follow/minervain0?logo=twitter&style=for-the-badge" alt="minervain0" /></a> </p>
-
-- 🔭 I’m currently working on **React Native**
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **react,bootstrap,redux**
-
-- 📫 How to reach me **aliosmanucar987@gmail.com**
+- 📫 İletişim: **aliosmanucar987@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
