@@ -19,7 +19,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
-- Şu anda ReactJS ve Angular7 ile Web Geliştirme 
+- Şu anda ReactJS ve Angular ile Web Geliştirme 
 - React Native ile Mobil Geliştirme öğreniyorum.
 - yeni bir iş fırsatı için açığım.
 </div>
