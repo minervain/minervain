@@ -11,11 +11,10 @@
 
 <br>
 <div>
-
+<picture> <img align="left" src="https://media.tenor.com/sR_AJO8tyzcAAAAd/turkey-turkiye.gif" width = 50px></picture>
 
  **HAKKIMDA**
 
-<picture> <img align="right" src="https://media.tenor.com/sR_AJO8tyzcAAAAd/turkey-turkiye.gif" width = 300px></picture>
 <br>
 
 - Şu anda ReactJS ve Angular ile Web Geliştirme 
