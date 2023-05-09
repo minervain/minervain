@@ -11,7 +11,6 @@
 
 <br>
 <div>
-<picture> <img align="left" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
  **HAKKIMDA**
 
