@@ -13,6 +13,7 @@
 <div>
 
  **HAKKIMDA**
+  <img align ="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/c8/2b/54c82b56f53706b47735814701708e13.gif">
 
 <br>
 
