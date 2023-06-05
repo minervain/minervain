@@ -8,21 +8,17 @@
 <img align ="center" alt="coding" width="1000" src="https://i.pinimg.com/originals/54/c8/2b/54c82b56f53706b47735814701708e13.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
 <br>
 <div>
 
- **HAKKIMDA**
-  <img align ="right" alt="coding" width="300" src="https://media.tenor.com/sR_AJO8tyzcAAAAd/turkey-turkiye.gif">
 
 <br>
 </div>
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 - 📫 İletişim: **aliosmanucar987@gmail.com**
