@@ -19,10 +19,6 @@
   <img align ="right" alt="coding" width="300" src="https://media.tenor.com/sR_AJO8tyzcAAAAd/turkey-turkiye.gif">
 
 <br>
-
-- Şu anda ReactJS ve Angular ile Web Geliştirme 
-- React Native ile Mobil Geliştirme öğreniyorum.
-- yeni bir iş fırsatı için açığım.
 </div>
 <br><br>
 
