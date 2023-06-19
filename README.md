@@ -1,5 +1,5 @@
 <div>
-  <img align ="center" alt="codin"  src="gt.png">
+ 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Hallederiz+:);"></a>
 </p></div>
