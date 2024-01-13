@@ -5,7 +5,7 @@
 </p></div>
 
 
-<img align ="center" alt="coding" width="1000" src="https://i.pinimg.com/originals/4d/60/c0/4d60c047efe13b61555ab905f1edcd02.gif">
+<img align ="center" alt="coding" width="450" height="450" src="https://i.pinimg.com/originals/4d/60/c0/4d60c047efe13b61555ab905f1edcd02.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
